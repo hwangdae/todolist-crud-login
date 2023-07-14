@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": "LGWVuoEmN",
+      "userId": "12@12.12",
+      "userPassword": "123",
+      "userName": "가나다",
+      "isLogin": false
+    },
+    {
+      "id": "bxe2XSYRJ",
+      "userId": "123@123.123",
+      "userPassword": "123",
+      "userName": "마바사",
+      "isLogin": true
+    },
+    {
+      "id": "LOPBNmoCC",
+      "userId": "qw@qw.qw",
+      "userPassword": "123",
+      "userName": "123",
+      "isLogin": false
+    }
+  ],
+  "todos": [
+    {
+      "id": "7GiV7wKac1",
+      "writer": "가나다",
+      "title": "111",
+      "content": "111",
+      "foodCal": [
+        {
+          "id": "ZIKOu-uM3",
+          "food": "11",
+          "calorie": "11"
+        }
+      ]
+    },
+    {
+      "id": "yfYsCm2dAG",
+      "writer": "123",
+      "title": "33",
+      "content": "33",
+      "foodCal": [
+        {
+          "id": "ZjQNUL1TG",
+          "food": "33",
+          "calorie": "33"
+        }
+      ]
+    },
+    {
+      "id": "Sr9e8mW_3g",
+      "writer": "마바사",
+      "title": "ㅇㅇㅇ",
+      "content": "ㅇㅇㅇ",
+      "foodCal": [
+        {
+          "id": "ripg2uGey",
+          "food": "111",
+          "calorie": "111"
+        }
+      ]
+    }
+  ]
+}
